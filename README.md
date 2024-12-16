@@ -1,4 +1,4 @@
-## Battery Impedance Analysis - NASA Li-ion Battery Dataset
+# Battery Impedance Analysis - NASA Li-ion Battery Dataset
 
 # Project Overview
 
